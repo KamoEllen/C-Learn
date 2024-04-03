@@ -4,7 +4,7 @@ using System.Linq; //works with data
 using System.Text; //text and coding
 using System.Threading.Tasks; //used for multi threaded apps
 
-namespace DiceRollGame
+namespace ShapeAreaCalc // forgot to name it lol
 {
     internal class Program
     {
